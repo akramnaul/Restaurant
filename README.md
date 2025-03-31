@@ -1,4 +1,4 @@
-[![example-rust](https://github.com/koyeb/example-rust/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/example-rust/actions)
+[![restaurant](https://github.com/koyeb/restaurant/actions/workflows/deploy.yaml/badge.svg)](https://github.com/koyeb/restaurant/actions)
 
 <div align="center">
   <a href="https://koyeb.com">
@@ -35,7 +35,7 @@ You need a Koyeb account to successfully deploy and run this application. If you
 
 The fastest way to deploy the Rust application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=example-rust&type=git&builder=dockerfile&repository=koyeb/example-rust&branch=main)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=restaurant&type=git&builder=dockerfile&repository=koyeb/restaurant&branch=main)
 
 Clicking on this button brings you to the Koyeb App creation page with everything pre-set to launch this application.
 
@@ -58,7 +58,7 @@ You will be taken to the deployment page where you can follow the build of your 
 
 ## Contributing
 
-If you have any questions, ideas or suggestions regarding this application sample, feel free to open an [issue](https://github.com/koyeb/example-rust/issues) or fork this repository and open a [pull request](https://github.com/koyeb/example-rust/pulls).
+If you have any questions, ideas or suggestions regarding this application sample, feel free to open an [issue](https://github.com/koyeb/restaurant/issues) or fork this repository and open a [pull request](https://github.com/koyeb/restaurant/pulls).
 
 ## Contact
 
